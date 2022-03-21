@@ -19,3 +19,9 @@ gapminder %>%
        x = "GDP Per Capita",
        y = "Life Expectancy")
   
+
+
+
+
+
+![Visualizing Data in R](https://user-images.githubusercontent.com/98186721/159338875-cdba43f5-3211-406a-8c79-0813df22e130.png)
